@@ -1,2 +1,3 @@
 tenets:
+- import: codelingo/cockroachdb
 - import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
