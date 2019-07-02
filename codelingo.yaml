@@ -1,0 +1,2 @@
+tenets:
+- import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
