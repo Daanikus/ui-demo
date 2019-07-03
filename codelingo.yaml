@@ -1,0 +1,3 @@
+tenets:
+- import: codelingo/effective-go/loop-variable-used-in-go-routine
+- import: codelingo/kubernetes/well-formed-lists
