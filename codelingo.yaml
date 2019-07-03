@@ -1,3 +1,4 @@
 tenets:
+- import: codelingo/kubernetes/well-named-interface
 - import: codelingo/effective-go/loop-variable-used-in-go-routine
 - import: codelingo/kubernetes/well-formed-lists
