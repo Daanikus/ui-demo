@@ -1,4 +1,2 @@
 tenets:
-- import: codelingo/kubernetes/flags-have-underscores
-- import: codelingo/cockroachdb
-- import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
+- import: codelingo/kubernetes/well-formed-lists
