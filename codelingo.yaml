@@ -1,2 +1,3 @@
 tenets:
+- import: codelingo/cacophony/defer-in-loop
 - import: codelingo/kubernetes/well-formed-lists
